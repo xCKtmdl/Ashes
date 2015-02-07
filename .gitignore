@@ -1,0 +1,9 @@
+Ashes_B/*.obj
+Ashes_B/*.exe
+Ashes_B/*.map
+Ashes_K/*.obj
+Ashes_K/*.exe
+Ashes_K/*.map
+*.obj
+*.exe
+*.map
